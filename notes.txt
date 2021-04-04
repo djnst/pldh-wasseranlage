@@ -1,0 +1,1 @@
+GPIO 14 nicht belegen --> sendet signal beim booten (led wäre möglich)
